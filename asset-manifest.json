@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.b1a3edc1.css",
+    "main.js": "/home/static/js/main.54b2e78e.js",
+    "static/js/453.9b1a9f3d.chunk.js": "/home/static/js/453.9b1a9f3d.chunk.js",
+    "static/media/ahmedelattar.jpg": "/home/static/media/ahmedelattar.f1d0c0188ee721655a36.jpg",
+    "index.html": "/home/index.html",
+    "main.b1a3edc1.css.map": "/home/static/css/main.b1a3edc1.css.map",
+    "main.54b2e78e.js.map": "/home/static/js/main.54b2e78e.js.map",
+    "453.9b1a9f3d.chunk.js.map": "/home/static/js/453.9b1a9f3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1a3edc1.css",
+    "static/js/main.54b2e78e.js"
+  ]
+}
